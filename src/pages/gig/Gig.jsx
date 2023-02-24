@@ -5,6 +5,7 @@ const Gig = () => {
       <div className="gig">
          Gig thay doi nua ne moi
          <div>moi moiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</div>
+          <div>dattttt moiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</div>
       </div>
    )
 }
